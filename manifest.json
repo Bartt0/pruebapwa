@@ -1,0 +1,22 @@
+{
+    "lang" : "es-mx",
+    "name": "Mi pwa",
+    "short_name" : "pwa",
+    "description" : "Prueba de una pwa",
+    "start_url" : "/",
+    "background_color" : "#454545",
+    "theme_color" : "#454545",
+    "orientation" : "any",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "/progressive-web-app.png",
+            "sizes" : "512x512"
+            
+        }
+    ]
+
+
+
+
+}
